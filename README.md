@@ -1,7 +1,7 @@
 # Hola soy Carlos 👋
 
 ## 🚀 Soy un desarrollador Front-End apasionado
-## 🛠 mis habilidades
+## 🛠  Mis Habilidades
 Javascript, HTML, CSS...
 JAVA ,Python ...
 
