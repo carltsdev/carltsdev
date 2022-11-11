@@ -1,9 +1,10 @@
 # Hola soy Carlos 👋
 
 ## 🚀 Soy un desarrollador Front-End apasionado
+
 ## 🛠  Mis Habilidades
 Javascript, HTML, CSS...
-JAVA ,Python ...
+JAVA , Python ...
 
 ## Mi  Perfil Profesional
 
