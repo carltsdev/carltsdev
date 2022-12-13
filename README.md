@@ -16,7 +16,7 @@ JAVA , Python.
 
 💬 preguntame sobre html css javascript
 
-⚡️ java python y otros lenguajes de programacion
+⚡️ java python y otros lenguajes de programación
 
 ![coding-fast](https://user-images.githubusercontent.com/117705995/200728554-ab16f10e-7a14-48ac-966d-1f3a6df21107.gif)
 
