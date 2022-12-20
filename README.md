@@ -3,7 +3,7 @@
 ## 🚀 Soy un desarrollador Front-End apasionado
 
 ## 🛠  Mis Habilidades
-Javascript, HTML, CSS...
+Javascript, HTML, CSS
 JAVA, Python.
 
 ## Mi  Perfil Profesional
