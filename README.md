@@ -10,7 +10,7 @@ JAVA,Python.
 
 👩‍💻 Actualmente estoy trabajando en paginas web
 
-🧠 sigo aprendiendo y mejorando cada día
+🧠 sigo aprendiendo y mejorando cada día.
 
 👯‍♀️ me gustaria colaborar en proyectos web
 
