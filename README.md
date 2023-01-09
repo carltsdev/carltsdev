@@ -6,7 +6,7 @@
 Javascript, HTML, CSS
 JAVA,Python.
 
-## Mi  Perfil Profesional
+## Mi Perfil Profesional
 
 👩‍💻 Actualmente estoy trabajando en paginas web
 
