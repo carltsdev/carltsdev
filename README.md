@@ -23,7 +23,7 @@ JAVA,Python.
 ## Contactame
 enviame un correo a :
 carlosinversiones2018@gmail.com
-para cualquier consulta
+para cualquier consult
 
 
 
