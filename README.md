@@ -4,7 +4,7 @@
 
 ## 🛠  Mis Habilidades
 Javascript, HTML, CSS
-JAVA,Python.
+JAVA,Python laravel.
 
 ## Mi Perfil Profesional
 
